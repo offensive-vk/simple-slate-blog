@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "Clean and Simple Blog",
   "type": "module",
-  "homepage": "https://github.com/offensive-vk/simple-blog.git",
+  "homepage": "https://github.com/offensive-vk/simple-slate-blog.git",
   "repository": {
     "type": "git",
-    "url": "https://github.com/offensive-vk/simple-blog.git"
+    "url": "https://github.com/offensive-vk/simple-slate-blog.git"
   },
   "bugs": {
-    "url": "https://github.com/offensive-vk/simple-blog.git/issues"
+    "url": "https://github.com/offensive-vk/simple-slate-blog.git/issues"
   },
   "sideEffects": false,
   "author": "",
