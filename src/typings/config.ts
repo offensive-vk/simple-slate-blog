@@ -13,7 +13,6 @@ export interface ThemeOptions {
   enableUserChange?: boolean;
 }
 
-/** 社交链接配置 */
 export interface SocialLink {
   icon: SocialLinkIcon;
   link: string;
@@ -67,6 +66,5 @@ export interface SlateConfig {
     feedId: string;
     userId: string;
   };
-  /** 社交链接 */
   socialLinks?: SocialLink[];
 }
