@@ -1,4 +1,4 @@
-# Slate blog
+# Slate Blog
 
 We love writing and sharing, and we appreciate well-crafted products. That’s why we created this minimalist theme, focusing on content itself, providing a smooth and pure writing and reading experience. Built on the latest framework, it’s faster, lighter, and more efficient.
 
@@ -19,7 +19,7 @@ It also works seamlessly with [Obsidian](https://obsidian.md/), helping you turn
 
 - Astro + React + Typescript  
 - Tailwindcss + @radix-ui/colors
-  - Updated to [Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4) (Jan 10, 2025)
+- Updated to [Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4) (Jan 10, 2025)
 - Docsearch
 
 ## 🔨 Usage
@@ -165,16 +165,3 @@ Using `:::` markers
   ![Image caption](image-url)
   ```
   
-## Updates
-### Version 1.2.0
-- Support Social Links
-- Support i18n (English and Chinese)
-- Fixed known issues
-
-### Version 1.1.1
-- Fixed known issues
-
-### Version 1.1.0
-- Upgraded to support [Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4)
-- Added dark mode support
-- Fixed known issues
