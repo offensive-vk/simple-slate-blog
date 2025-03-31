@@ -5,7 +5,7 @@ import { defineConfig } from './src/helpers/config-helper';
 
 export default defineConfig({
   lang: 'en-US',
-  site: 'https://localhost:4321',
+  site: 'https://slate-blog.pages.dev',
   avatar: '/avatar.png',
   title: 'Simple Blog',
   description: 'Pure Code, Simple View.',
