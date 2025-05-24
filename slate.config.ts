@@ -17,7 +17,7 @@ export default defineConfig({
   socialLinks: [
     {
       icon: 'github',
-      link: 'https://github.com/offensive-vk/my-simple-blog'
+      link: 'https://github.com/offensive-vk/simple-slate-blog'
     },
 ]
 });
